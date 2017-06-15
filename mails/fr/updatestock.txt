@@ -1,0 +1,11 @@
+
+[{shop_url}] 
+
+Bonjour, 
+
+Le stock du produit {product} a été modifié.
+
+NOUVEAU STOCK : {qty}	 
+
+{shop_name} [{shop_url}] powered
+by PrestaShop(tm) [http://www.prestashop.com/] 
